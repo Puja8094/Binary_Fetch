@@ -47,7 +47,7 @@
 
 * [Prince verma]()
 *  [Puja Kumari]()
-* [Dhamrendra]()
+* [Dharmendra]()
 * [Gautam Kumar]()
 
 
