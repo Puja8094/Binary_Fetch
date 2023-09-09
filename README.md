@@ -5,11 +5,6 @@
 
 <p align="center"><a href="https://hack36.com"> <img src="https://cutt.ly/BuiltAtHack36" height=24px> </a> </p>
 
-## Introduction:
- * An Blockchain Platform for Researchers. 
- * A place where a researcher can mint their research paper and publish and also get funded on our platform. 
- * Much of the world is yet to be introduced to cryptocurrencies, DeFi, and NFTs. 
- * Our aim with this project is to onboard researchers and scholars to the world of crypto and introduce them to DeFi, Blockchain.
 
  ![1](https://user-images.githubusercontent.com/78801686/165015913-4b91a35c-5a7a-4676-91a1-4b70d3c14f8a.jpeg)
 
